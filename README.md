@@ -1,5 +1,9 @@
 # E.D.E.N. - Elite Dangerous Exploration Navigator
 
+<p align="center">
+  <img src="images/startup-splash_ex.png" alt="E.D.E.N. Splash">
+</p>
+
 # What is E.D.E.N.?
 
 E.D.E.N. is an interactive Elite Dangerous companion designed for commanders to do something we haven't been able to do since the game started.
@@ -85,6 +89,10 @@ I've built the GUI around what interests me in the game so far. And it's got a l
 # Features So Far
 
 # Current Status Tab/Page - First to Show
+
+<p align="center">
+  <img src="images/current_status.png" alt="Current Status Tab">
+</p>
 
 ## Quick Overview
 
