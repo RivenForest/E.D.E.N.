@@ -102,8 +102,9 @@ Next system in route
 Remaining jumps
 
     Navroute table
-Systems                      Distance                        Discovered 
-sytem name                jump distance              Discovered by when available (lite EDSM pull)
+Systems - system name
+Distance - jump distance
+Discovered - discovered by when available (lite EDSM pull)
 Useful for:
 Reviewing your current route
 Tracking exploration progress
@@ -137,5 +138,4 @@ Watching the tool panic in real time
 
 Bottom Quick Actions Area (Reserved)
 There's a reserved strip at the bottom of the tab for future quick actions and contextual controls. Depending on the current build this may be empty or partially used.
-
 
