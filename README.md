@@ -1,4 +1,4 @@
-E.D.E.N. - Elite Dangerous Exploration Navigator
+E.D.E.N. - Elite Dangerous Exploration Navigator (easier read in code view)
 
 What is E.D.E.N.?
 E.D.E.N. is an interactive Elite Dangerous companion designed for commanders to do something we haven't been able to do since the game started.  Simply put, share our data with friends, or the community, and KNOW where we've been.  What I mean by that is with E.D.E.N. a cmdr can finally ask "If I went in this direction, will I discover something new or run into a bunch of known space?"  That's it...that's the goal in a nutshell.  
